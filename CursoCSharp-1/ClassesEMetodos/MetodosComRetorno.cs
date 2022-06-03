@@ -36,7 +36,7 @@ namespace CursoCSharp_1.ClassesEMetodos
             Console.WriteLine(resultado);
             Console.WriteLine(CalculadoraComum.subtrair(2, 7));
             Console.WriteLine(CalculadoraComum.multiplicar(4, 4));
-
+             Console.WriteLine
         }
     }
 }
